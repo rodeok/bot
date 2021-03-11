@@ -1,2 +1,2 @@
 # bot
-This is discord not 
+This is discord bot
